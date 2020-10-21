@@ -1,13 +1,20 @@
-# Título del Proyecto
+# Tutorial de Git y Github
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
 ## Comenzando 🚀
 
+
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
+
+### Imagenes
+
+<br>
+<img title="Logo Git"  height ="200" src = "./imgs/logoGit.png">
+<br>
 
 ### Pre-requisitos 📋
 
